@@ -1183,6 +1183,8 @@ export async function mount(props) {
 ## 源码地址
 [https://github.com/xushanpei/qiankun_template](https://github.com/xushanpei/qiankun_template)
 
+## 微信公众号： 前端开发爱好者
+
 
 
 
